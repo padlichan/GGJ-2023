@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f1e7ba5fa632524680ade681d547957
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - root: {instanceID: 0}
+  - winCondition: {instanceID: 0}
+  - treeSeedAdded: {fileID: 8300000, guid: 2e37ce1b39cae3343b5c3f67c2ee83ec, type: 3}
+  - treeHasGrown: {fileID: 8300000, guid: dd54d36eab5d45c4eb9ba51111231ac3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

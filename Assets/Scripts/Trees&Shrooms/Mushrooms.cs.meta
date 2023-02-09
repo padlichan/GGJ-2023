@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ee031441e01855147915a153644eb984
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - seed: {instanceID: 0}
+  - placementPreview: {instanceID: 0}
+  - root: {instanceID: 0}
+  - mushroomSeedAdded: {fileID: 8300000, guid: 93c994435b4a9794487797c7533dba98, type: 3}
+  - mushroomSpread: {fileID: 8300000, guid: 94602aee48b709c44947be6a38d89771, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
